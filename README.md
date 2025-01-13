@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 ## Postman setup
 Clone the Postman collection and environment files into the pos-postman folder.
