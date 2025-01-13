@@ -1,18 +1,26 @@
 <<<<<<< HEAD
-# pos-postman
-Pos Malaysia postman collection for Rate Calculator
 
 ## Postman setup
-1. Please clone the postman collection and the environment file inside the pos-postman folder
-2. Import both files to postman
-3. Run the collection APIs
+Clone the Postman collection and environment files into the pos-postman folder.
+Import both the Postman collection and the environment files into Postman:
+Open Postman.
+Go to File > Import.
+Select the cloned collection and environment files.
+Run the collection APIs by selecting the collection and clicking on the Run button.
 
 ## Selenium setup
-1. Please download an IDE and other other required dependencies/tools
-2. Clone the project
-3. Open with any preferred IDE
-4. Run the project
-=======
-# POS_Assesement
-POS Malaysia postman collection for Rate Calculator
->>>>>>> 422feb4827c0aa368ddd098d1039948225916634
+
+Download and install a suitable IDE (Integrated Development Environment) for Selenium, such as:
+Eclipse
+IntelliJ IDEA
+Visual Studio Code
+Install any other required dependencies/tools (e.g., Java, Maven, Selenium WebDriver, etc.).
+Clone the project repository to your local machine:
+bash
+Copy code
+git clone <repository-url>
+Open the project with your preferred IDE (Eclipse, IntelliJ, etc.).
+Run the project:
+If using Maven: Right-click on the project > Run as > Maven build.
+If using another setup: Follow your IDE's instructions to run Selenium tests.
+
